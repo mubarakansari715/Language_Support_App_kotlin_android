@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Languge_Support_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home</string>
+    <string name="app_home">home</string>
+    <string name="app_search">search</string>
+    <string name="app_Profile">profile</string>
+    <string name="home_content">" Image result for history of india quotes India's social, economic, and cultural configurations are the products of a long process of regional expansion. Indian history begins with the birth of the Indus Valley Civilization and the coming of the Aryans. These two phases are usually described as the pre-Vedic and Vedic age. Hinduism arose in the Vedic period."</string>
+    <string name="app_ctx_title">What is the history of India in short?</string>
+    <string name="btn_en">English</string>
+    <string name="btn_hindi">Hindi</string>
+    <string name="btn_urdu">Urdu</string>
+    <string name="app_lang">Change Language</string>
+    <string name="app_lang_select">Please choose your Language</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Languge_Support_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home</string>
+    <string name="app_home">home</string>
+    <string name="app_search">search</string>
+    <string name="app_Profile">profile</string>
+    <string name="btn_en">English</string>
+    <string name="btn_hindi">Hindi</string>
+    <string name="btn_urdu">Urdu</string>
+    <string name="home_content">भारत के इतिहास के उद्धरण के लिए छवि परिणाम
+                                भारत के सामाजिक, आर्थिक और सांस्कृतिक विन्यास क्षेत्रीय विस्तार की एक लंबी प्रक्रिया के उत्पाद हैं। भारतीय इतिहास सिंधु घाटी सभ्यता के जन्म और आर्यों के आने से शुरू होता है।
+                                इन दो चरणों को आमतौर पर पूर्व-वैदिक और वैदिक युग के रूप में वर्णित किया जाता है। वैदिक काल में हिंदू धर्म का उदय हुआ।</string>
+    <string name="app_ctx_title">भारत का इतिहास संक्षेप में क्या है?</string>
+    <string name="app_lang">भाषा बदलें</string>
+    <string name="app_lang_select">Please choose your Language</string>
+</resources>

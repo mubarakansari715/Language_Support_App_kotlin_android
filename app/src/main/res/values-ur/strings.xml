@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Languge_Support_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home</string>
+    <string name="app_home">home</string>
+    <string name="app_search">search</string>
+    <string name="app_Profile">profile</string>
+    <string name="btn_en">English</string>
+    <string name="btn_hindi">Hindi</string>
+    <string name="btn_urdu">Urdu</string>
+
+    <string name="app_ctx_title">مختصر یہ کہ ہندوستان کی تاریخ کیا ہے؟</string>
+    <string name="home_content"> ہندوستانی حوالوں کی تاریخ کے لیے تصویری نتیجہ۔
+    ہندوستان کی سماجی ، معاشی اور ثقافتی تشکیلات علاقائی توسیع کے طویل عمل کی پیداوار ہیں۔ ہندوستانی تاریخ وادی سندھ کی تہذیب کی پیدائش اور آریوں کے آنے سے شروع ہوتی ہے۔
+        یہ دو مراحل عام طور پر پری ویدک اور ویدک دور کے طور پر بیان کیے جاتے ہیں۔ ویدک دور میں ہندو مت پیدا ہوا۔</string>
+    <string name="app_lang">زبان تبدیل کریں</string>
+    <string name="app_lang_select">Please choose your Language</string>
+
+
+</resources>

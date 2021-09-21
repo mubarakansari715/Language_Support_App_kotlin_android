@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Languge_Support_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home</string>
+    <string name="app_home">home</string>
+    <string name="app_search">search</string>
+    <string name="app_Profile">profile</string>
+    <string name="app_lang">ભાષા બદલો</string>
+    <string name="home_content">ભારતના ઇતિહાસ માટે છબી પરિણામ ભારતના સામાજિક, આર્થિક અને સાંસ્કૃતિક રૂપરેખાંકન પ્રાદેશિક વિસ્તરણની લાંબી પ્રક્રિયાનું ઉત્પાદન છે. ભારતીય ઇતિહાસની શરૂઆત સિંધુ ખીણ સંસ્કૃતિના જન્મ અને આર્યોના આવવાથી થાય છે. આ બે તબક્કાઓ સામાન્ય રીતે પૂર્વ વૈદિક અને વૈદિક યુગ તરીકે વર્ણવવામાં આવે છે. વૈદિક કાળમાં હિન્દુ ધર્મ ભો થયો.</string>
+    <string name="app_ctx_title">ટૂંકમાં ભારતનો ઈતિહાસ શું છે?</string>
+    <string name="app_lang_select">Please choose your Language</string>
+</resources>
