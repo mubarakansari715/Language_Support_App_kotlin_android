@@ -8,7 +8,7 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.fragment.findNavController
 
 class MainActivity : AppCompatActivity() {
-    lateinit var myPreference: MyPreference
+    private lateinit var myPreference: MyPreference
     private lateinit var navController: NavController
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

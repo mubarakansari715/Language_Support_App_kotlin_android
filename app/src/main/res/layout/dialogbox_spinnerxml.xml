@@ -10,10 +10,11 @@
     app:cardPreventCornerOverlap="true"
     app:cardUseCompatPadding="true">
 
-    <androidx.appcompat.widget.AppCompatSpinner
+    <Spinner
         android:id="@+id/spinner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/_5dp" />
+        android:layout_margin="@dimen/_5dp"
+        android:minHeight="48dp" />
 
 </com.google.android.material.card.MaterialCardView>

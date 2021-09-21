@@ -6,7 +6,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ArrayAdapter
-import android.widget.Button
 import android.widget.Spinner
 import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
@@ -51,6 +50,7 @@ class HomeFragment : Fragment() {
             builder.setPositiveButton("Done") { _, _ ->
                 myPreference.setLoginCount(languageList[spinner.selectedItemPosition])
                 startActivity(Intent(requireContext(), MainActivity::class.java))
+
             }
             builder.setNegativeButton("No") { dialog, _ ->
                 dialog.dismiss()
